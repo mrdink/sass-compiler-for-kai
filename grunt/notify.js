@@ -20,5 +20,10 @@ module.exports = {
 		options: {
 			message: 'CSS is compiled.'
 		}
+	},
+	build: {
+		options: {
+			message: 'Theme has been built.'
+		}
 	}
 };
