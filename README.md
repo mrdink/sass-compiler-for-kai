@@ -18,8 +18,6 @@ Then run `grunt` to build the project.
 
 ## Development
 
-In your wp-content/themes folder you will now have a folder with the name of your theme which is setup with the basics to get a theme off the ground quickly. In the root of your newly created theme you'll have the following grunt tasks you can run:
-
     grunt # runs the default task that builds the assets
 
     grunt watch # watches for any changes to scss files.
